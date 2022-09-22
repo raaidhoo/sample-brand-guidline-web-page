@@ -1,0 +1,149 @@
+body {
+    background-color: rgb(249, 247, 255);
+
+}
+
+h1 {
+    font-family: Comfortaa;
+}
+
+
+#hed {
+    font-family: Comfortaa;
+    font-weight: bold;
+    font-size: 65px;
+    color: #563d82;
+    text-align: center;
+    padding: 60px;
+}
+
+h2 {
+    font-family: Comfortaa;
+    color: #563d82;
+}
+
+.colors, .fonts, .styles {
+    padding-left: 100px;
+    padding-top: 70px;
+}
+
+.color {
+    background-color: white;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 50px;
+}
+
+.colobox li {
+    font-family: Comfortaa;
+    display: inline-block;
+    padding: 60px 100px;
+    margin: 50px;
+}
+
+#pup {
+    background-color: #563d82;
+    border-radius: 20px;
+    color: white;
+}
+
+#gre {
+    background-color: #62b6b0;
+    border-radius: 20px;
+    color: white;
+}
+
+#yel {
+    background-color: #faad58;
+    border-radius: 20px;
+    color: white;
+    
+}
+
+.font {
+    background-color: white;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 50px;
+    margin-top: 100px;
+    color: #563d82;
+}
+
+.fonbox {
+    padding-left: 100px;
+    padding-bottom: 80px;
+
+}
+
+.fonbox div {
+    display: inline-block;
+}
+
+p {
+    line-height: 5px;
+}
+
+.fbox1, .fbox2 {
+    margin: 10px;
+}
+
+#fbox11 {
+    margin-right: 100px;
+}
+
+.boldc {
+    font-weight: bolder ;
+    color: #563d82;
+}
+
+.italicc {
+    font-style: italic;
+    color: #563d82;
+}
+
+.normal {
+    font-family: Karla;
+    color: #563d82;
+}
+
+.boldk{
+    font-family: Karla;
+    font-weight: bolder;
+    color: #563d82;
+}
+
+.italick {
+    font-family: Karla;
+    font-weight: bolder;
+    color: #563d82;
+}
+
+.karla {
+    font-family: Karla;
+    color: #563d82;
+}
+.style {
+    background-color: white;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 50px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+
+}
+
+.d1 {
+    padding-left: 100px;
+    color: #563d82;
+}
+
+.d2 {
+    padding-left: 100px;
+    color: #563d82;
+}
+
+.d3 {
+    padding-left: 100px;
+    padding-bottom: 100px;
+    color: #563d82;
+}
